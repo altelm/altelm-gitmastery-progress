@@ -176,5 +176,14 @@
       "Great work creating a fork with Github!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1768806674.462784,
+    "completed_at": 1768806682.188534,
+    "comments": [
+      "not enough values to unpack (expected 2, got 1)"
+    ],
+    "status": "Error"
   }
 ]
