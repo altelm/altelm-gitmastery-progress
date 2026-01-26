@@ -311,23 +311,5 @@
       "Great work with using git branch and git checkout to fix the bugs!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "branch-previous",
-    "started_at": 1769408404.707342,
-    "completed_at": 1769408408.637579,
-    "comments": [
-      "The 'sleep-line' branch should have the line 'I fell asleep on the couch.' added to story.txt."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "branch-previous",
-    "started_at": 1769408491.160871,
-    "completed_at": 1769408494.931714,
-    "comments": [
-      "The 'sleep-line' branch should start from the second commit (with message 'Describe location')."
-    ],
-    "status": "Incomplete"
   }
 ]
